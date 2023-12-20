@@ -15,8 +15,8 @@ optional
 - [DC Connectors](https://www.amazon.de/gp/product/B08RZ38STX/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&amp;psc=1&_encoding=UTF8&tag=hogerl0a-21&linkCode=ur2&linkId=d1aeaa60d383fe8e14eaf7debfaa8706&camp=1638&creative=6742)
 
 # software
-- [wled](https://kno.wled.ge/)
-- [wled installer (you will need a supported browser, e.g. Chrome)](https://install.wled.me/)
+- [WLED - https://kno.wled.ge/](https://kno.wled.ge/)
+- [wled installer (you will need a supported browser, e.g. Chrome) - https://install.wled.me/](https://install.wled.me/)
 
 # starting
 the pinout for the esp8266 controller i helpful:
