@@ -2,7 +2,7 @@
 WLED Setup for LED Stripes and ESP8266 Controller
 
 # Equipment
-- [Diffuser](https://www.amazon.de/dp/B00MWQF08C?ref=ppx_yo2ov_dt_b_product_details&amp;th=1&_encoding=UTF8&tag=hogerl0a-21&linkCode=ur2&linkId=a72e70b7692c3f2ecf42406747db81f0&camp=1638&creative=6742)
+- [Diffuser](https://www.amazon.de/dp/B0B17T532Z?&_encoding=UTF8&tag=hogerl-21&linkCode=ur2&linkId=108699c92baa88347f179804e469c9e8&camp=1638&creative=6742)
 - [Diffuser for Corner](https://www.amazon.de/-/en/dp/B0BJ7HYSTW?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=hogerl0a-21&linkCode=ur2&linkId=328f518b504334cac2e2e492cd7658ab&camp=1638&creative=6742)
 - [WS2812B LED Stripe (5m - 30 LEDs/m)](https://www.amazon.de/-/en/dp/B01CDTE9AW?psc=1&amp;ref=ppx_yo2ov_dt_b_product_details&_encoding=UTF8&tag=hogerl0a-21&linkCode=ur2&linkId=a75b4ff38568b7b8e58c7b30cfda0507&camp=1638&creative=6742) - there are more supported, but this gave me the best experience (also tried ws2801)
 - [Power Supply - LPV-60](https://www.amazon.de/dp/B00MWQF08C?ref=ppx_yo2ov_dt_b_product_details&amp;th=1&_encoding=UTF8&tag=hogerl0a-21&linkCode=ur2&linkId=1c07d30e5b676f42f0b0a20c126e0014&camp=1638&creative=6742)
