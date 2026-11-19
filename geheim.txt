@@ -1,0 +1,8 @@
+Test for Secret Scanning
+• API-Key: sk_live_EXAMPLE_98a7b6c5d4e3f2g1
+• Datenbank-Zugangsdaten: postgres://db_user:EXAMPLE_PASSWORT@://example.com
+• OAuth- / Access-Token: ghp_EXAMPLE_TokenWert1234567890abcdef
+• Privater SSH-Schlüssel:text
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAAB...
+-----END OPENSSH PRIVATE KEY-----
